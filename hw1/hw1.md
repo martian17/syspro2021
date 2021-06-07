@@ -1,5 +1,3 @@
-このファイルの置き場所: https://github.com/martian17/syspro2021/blob/main/hw1/hw1.md
-
 学籍番号：71848569
 
 氏名：吉井雄太朗  
