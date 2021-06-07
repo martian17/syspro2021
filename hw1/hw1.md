@@ -1,10 +1,22 @@
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 学籍番号：71848569
 
 氏名：吉井雄太朗  
 
 課題1
 
-コード
+コード  
 https://gist.github.com/martian17/c71d221388c7114526877efab9c18a82
 ```c
 // # include <stdio.h>
@@ -38,7 +50,7 @@ anda
 
 課題2
 
-コード
+コード  
 https://gist.github.com/martian17/e2c2da56efb48511a24a72d9327adcee
 ```c
 //# include <stdio.h>
